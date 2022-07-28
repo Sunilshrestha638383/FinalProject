@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "690028692468",
+    "firebase_url": "https://fotographersstation-default-rtdb.firebaseio.com",
+    "project_id": "fotographersstation",
+    "storage_bucket": "fotographersstation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690028692468:android:dc56386905bd432ddcafa1",
+        "android_client_info": {
+          "package_name": "com.example.finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690028692468-plhjkbujsbuj9lnvjqft5lnj6pie1t3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARpt8DA-9kDOnomFjMt9ZOwkK94kfXVfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690028692468-plhjkbujsbuj9lnvjqft5lnj6pie1t3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
